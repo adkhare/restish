@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hector0.7"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Netty"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Commons-Collections"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
